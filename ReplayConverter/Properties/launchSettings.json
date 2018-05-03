@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ReplayConverter": {
+      "commandName": "Project",
+      "commandLineArgs": "kz_reach_v2.rec kz_reach_v2_tp.rec",
+      "workingDirectory": "C:\\Users\\James\\Documents\\Visual Studio 2017\\Projects\\ReplayConverter\\Examples"
+    }
+  }
+}

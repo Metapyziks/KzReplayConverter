@@ -5,4 +5,8 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="System.Numerics.Vectors" Version="4.5.0-preview2-26406-04" />
+  </ItemGroup>
+
 </Project>
